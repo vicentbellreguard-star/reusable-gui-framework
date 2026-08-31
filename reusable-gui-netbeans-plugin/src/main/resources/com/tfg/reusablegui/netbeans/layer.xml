@@ -1,0 +1,22 @@
+<!--
+ Archivo de configuración de NetBeans utilizado para
+ registrar la plantilla Reusable GUI Panel dentro
+ del asistente de creación de archivos.
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+        "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+
+<filesystem>
+    <folder name="Templates">
+        <folder name="TFG">
+            <file name="ReusableGuiPanel.java" url="templates/ReusableGuiPanel.java.ftl">
+                <attr name="displayName" stringvalue="Reusable GUI Panel"/>
+                <attr name="template" boolvalue="true"/>
+                <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                <attr name="instantiatingIterator" methodvalue="org.netbeans.api.templates.TemplateRegistration.create"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
