@@ -60,21 +60,41 @@ NetBeans plugin that improves framework integration with the IDE, including a cu
 
 ## Screenshots
 
-Add screenshots here to show the project without requiring users to build it first.
+### Demo Application
 
-Suggested screenshots:
+Main application used to access the different demonstrations included in the project.
 
-1. Main DemoApp window.
-2. Simple GUI example.
-3. Tabbed GUI composition.
-4. Tree-based GUI composition.
-5. GUI created using the NetBeans Palette.
+![Demo Application](screenshots/demo-app.png)
 
-Example:
+### Simple GUI
 
-```markdown
-![Demo application](screenshots/demo-app.png)
-```
+Example of a reusable GUI showing basic data and additional fields composed using the framework.
+
+![Simple GUI](screenshots/simple-gui.png)
+
+### Tabbed GUI Composition
+
+Example of GUI composition using a tabbed container to organize different reusable interfaces.
+
+![Tabbed GUI](screenshots/tabbed-gui.png)
+
+### Tree-Based GUI Composition
+
+Example of a more complex GUI organized hierarchically using a tree-based container.
+
+![Tree-Based GUI](screenshots/tree-gui.png)
+
+### GUI Generated from the NetBeans Template
+
+Example of a reusable GUI created using the custom **Reusable GUI Panel** template provided by the NetBeans plugin.
+
+![Generated GUI](screenshots/generated-gui.png)
+
+### GUI Created Using the NetBeans Palette
+
+Example of a GUI created visually using reusable components integrated into the NetBeans Swing Palette, demonstrating drag-and-drop support.
+
+![NetBeans Palette GUI](screenshots/palette-gui.png)
 
 ## Build
 
